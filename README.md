@@ -73,4 +73,4 @@ The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
 
 ## Contact
 
-We can be contacted through our [Discord Server](https://discord.com) or via twitter [@ibrahimraimi\_](https://twitter.com/ibrahimraimi_)
+We can be contacted via [email](mailto:raimiibrahim44@gmail.com) or via twitter [@ibrahimraimi\_](https://twitter.com/ibrahimraimi_)
